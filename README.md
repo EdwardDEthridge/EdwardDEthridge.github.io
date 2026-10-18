@@ -15,6 +15,6 @@ https://youtu.be/tzFiL5pSJV0
 
 # Update Narratives
 <!-- Option B: Using an Iframe tag -->
-<iframe src="./CS499 Module 3 Update Journal Edward D Ethridge.pdf" width="100%" height="850px"></iframe>
-<iframe src="./CS499 Module 4 Update Journal Edward D Ethridge.pdf" width="100%" height="850px"></iframe>
-<iframe src="./CS499 Module 5 Update Journal Edward D Ethridge.pdf" width="100%" height="850px"></iframe>
+<iframe src="./CS 499 Module 3 Update Journal Edward D Ethridge.pdf" width="100%" height="850px"></iframe>
+<iframe src="./CS 499 Module 4 Update Journal Edward D Ethridge.pdf" width="100%" height="850px"></iframe>
+<iframe src="./CS 499 Module 5 Update Journal Edward D Ethridge.pdf" width="100%" height="850px"></iframe>
